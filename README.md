@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Harsimran Kaur  
+#  Hi, I'm Harsimran Kaur  
 
 🚀 **Frontend Developer | JavaScript | React | TypeScript | UI/UX Enthusiast**   <img align="right" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300">
 <br><br>                     
 
 🔹 **What I Do:**  
 
-- ✨ Build **responsive, pixel-perfect** websites  
-- 🎨 Solve UI/UX challenges with creativity  
-- 🚀 Work with modern frontend technologies like **React & TypeScript**  
-- 🔧 Follow best practices in **Git & GitHub**  
+-  Build **responsive, pixel-perfect** websites  
+-  Solve UI/UX challenges with creativity  
+-  Work with modern frontend technologies like **React & TypeScript**  
+-  Follow best practices in **Git & GitHub**  
 
 🔹 **Tech Stack:**  
 
